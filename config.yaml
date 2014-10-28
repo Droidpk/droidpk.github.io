@@ -4,6 +4,6 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "http://droidpk.github.io"
+baseurl: "http://droid.pk/Droidpk_Blog"
 title: "Droid.PK Blog"
 ...
